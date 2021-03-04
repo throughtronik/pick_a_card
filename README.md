@@ -1,1 +1,1 @@
-A simple RUBY console app thats shows how to use arrays and sample function.
+A simple RUBY console app that shows how to use arrays and sample function.
